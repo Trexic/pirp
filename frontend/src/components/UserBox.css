@@ -13,13 +13,13 @@
     width: 150px;
     height: 40px;
     margin: 5px;
-    background-color: #fbd151;
+    background-color: #0888ff;
     border-radius: 10px;
     border-style: none;
 }
 
 .UserBox button:hover {
-    background-color: #ffcc23;
+    background-color: #0905fa;
 }
 
 @media (max-width: 426px) {

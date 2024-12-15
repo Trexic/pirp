@@ -29,10 +29,10 @@
     margin-bottom: 10px;
     border-radius: 10px;
     font-size: 14pt;
-    background-color: #fc4d4d;
+    background-color: #0888ff;
     border-style: none;
 }
 
 .Cabinet button:hover {
-    background-color: #ff2c2c;
+    background-color: #0905fa;
 }

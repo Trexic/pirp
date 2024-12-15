@@ -1,7 +1,7 @@
 .Header {
     width: 100%;
     height: 50px;
-    background-color: #ec3838;
+    background-color: #c7c7c7;
     display: flex;
     justify-content: flex-end;
 }
@@ -19,7 +19,7 @@
 }
 
 .Header li:hover {
-    background-color: #ff1414;
+    background-color: #c7c7c7;
 }
 
 @media (max-width: 426px) {

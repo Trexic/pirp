@@ -26,11 +26,11 @@
     height: 50px;
     width: 200px;
     border-style: none;
-    background-color: #ff4545;
+    background-color: #0888ff;
     border-radius: 10px;
     font-size: 16pt;
 }
 
 .Product .buy:hover {
-    background-color: #ff0000;
+    background-color: #0905fa;
 }

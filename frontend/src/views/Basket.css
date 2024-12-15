@@ -17,13 +17,13 @@
     width: 200px;
     margin-top: 15px;
     border-style: none;
-    background-color: #fa4141;
+    background-color: #0888ff;
     border-radius: 10px;
     font-size: 16pt;
 }
 
 .Basket .order:hover {
-    background-color: #ff1d1d;
+    background-color: #0905fa;
 }
 
 @media (max-width: 768px) {
